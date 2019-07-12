@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11  -fopenmp -O3 -DNDEBUG    CMakeFiles/ncnn2mem.dir/ncnn2mem.cpp.o  -o ncnn2mem -rdynamic ../src/libncnn.a 
