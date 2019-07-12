@@ -1,1 +1,0 @@
-/usr/bin/g++   -std=c++11  -fopenmp -O3 -DNDEBUG    -pie CMakeFiles/benchncnn.dir/benchncnn.cpp.o  -o benchncnn -rdynamic ../src/libncnn.a 
