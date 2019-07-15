@@ -1,1 +1,0 @@
-/usr/bin/g++   -std=c++11  -fopenmp -O3 -DNDEBUG    CMakeFiles/mxnet2ncnn.dir/mxnet2ncnn.cpp.o  -o mxnet2ncnn -rdynamic 
