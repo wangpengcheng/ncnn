@@ -1,1 +1,0 @@
-/usr/bin/c++    -fopenmp -O3 -DNDEBUG    -pie CMakeFiles/benchncnn.dir/benchncnn.cpp.o  -o benchncnn -rdynamic ../src/libncnn.a /home/wangpengcheng/vulkansdk-1.1.92.1/x86_64/lib/libvulkan.so -Wl,-rpath,/home/wangpengcheng/vulkansdk-1.1.92.1/x86_64/lib 
